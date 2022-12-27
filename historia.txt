@@ -3,3 +3,5 @@ Esta es un ejemplo donde se puede crear una historia en un archivo de texto.
 hay que tener en cuenta que una historia tiene que ser entendible.
 
 La historia estuvo involucrado de grandes sucesos asi como pequeños sucesos importantes.
+
+la historia pemanecera siempre intacta
