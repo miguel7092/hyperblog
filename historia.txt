@@ -1,0 +1,1 @@
+Esta es un ejemplo de como se puede crear una historia en un archivo de texto
