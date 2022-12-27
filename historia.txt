@@ -1,1 +1,3 @@
-Esta es un ejemplo de como se puede crear una historia en un archivo de texto
+Esta es un ejemplo donde se puede crear una historia en un archivo de texto.
+
+hay que tener en cuenta que una historia tiene que ser entendible.
