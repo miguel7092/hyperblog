@@ -18,6 +18,14 @@
     <p>
     Aquellos blogs que nos dejan un mejor analisis
     </p>
+    <section>
+     <article>
+      <h1>Heroes pilotos peruanos</h1>
+      <h2>Jose Abelardo Quiñones</h2>
+      <time datetime="16-01-2023"> Publicado el 16 de enero del 2023 </time>
+      <p> fue un aviador de guerra peruano y teniente de la Fuerza Aérea del Perú . Declarado héroe nacional del Perú por la Ley n.º 16126, del 10 de mayo de 1966, a causa de su inmolación en una misión aérea contra las baterías ecuatorianas durante la Guerra de 1941.2​ Asimismo, cada 23 de julio (día de su inmolación) se conmemora el Día de la Fuerza Aérea del Perú.</p>
+     </article>
+    </section>
    </div>
   </div>
  </body>
